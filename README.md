@@ -34,7 +34,8 @@
 - 如实填写姓名、出生日期与邮箱等信息，点击 **「验证我的学生身份」** 进入下一步上传页面。
 - **异常提示**：如果点击后直接弹出红色错误或提示“此优惠不可用/无法验证”，通常说明当前账号已不具备活动资格或触发了环境风控，建议更换干净节点或换号重试。
 
-![SheerID 学校搜索框示意图（地区选台湾后可搜出内地高校）](images/01-sheerid-school-search.png)
+<img width="1024" height="570" alt="media_1795238769784_de202764" src="https://github.com/user-attachments/assets/7e791f51-07cc-4080-a26e-382df47df70a" />
+
 
 ### 2.2 准备并上传学籍证明
 
@@ -77,7 +78,8 @@
 | **Google AI Pro**（推荐） | **JP¥720/月**（75% 优惠，最长 4 年） | JP¥2,900/月 | **5 TB 存储空间**、Pro 高级研究与备考权限（附带 YouTube Lite 权益，试用期结束后恢复 JP¥2,900/月） |
 | **Google AI Pro 含 YouTube Premium** | **JP¥1,280/月**（69% 优惠，最长 4 年） | JP¥4,180/月 | 5 TB 存储空间 + 完整 **YouTube Premium**（试用期结束后恢复 JP¥2,900/月） |
 
-![日区 Google One 大学生专属优惠三档方案对比图](images/04-jp-student-plans.jpg)
+<img width="1024" height="570" alt="media_1795238779598_97a8af9d" src="https://github.com/user-attachments/assets/1e7ed1a2-dea8-4f90-a878-7d7fb2660ef7" />
+
 
 选择中间一档 **Google AI Pro（JP¥720/月）** 点击「获取学生优惠」即可。
 
